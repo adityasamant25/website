@@ -370,8 +370,15 @@ Notes catch the reader's attention without a sense of urgency.
 
 You can have multiple paragraphs and block-level elements inside an admonition.
 
-| Or | a | table |
+| Heading cell 1 | Heading cell 2 |
+|----------------|----------------|
+| Body cell 1    | Body cell 2    |
+
 {{< /note >}}
+
+| Heading cell 1 | Heading cell 2 |
+|----------------|----------------|
+| Body cell 1    | Body cell 2    |
 
 {{< caution >}}
 The reader should proceed with caution.
